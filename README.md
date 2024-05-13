@@ -8,5 +8,6 @@ This repository contains a Python program that simulates the functioning of an E
  1) Clone the repository to your local machine.
  2) Run the evm.py file using Python to simulate the EVM.
  3) Follow the on-screen instructions to cast votes and view the results.
+
 Feel free to contribute to this project by adding more features or improving the existing functionality.
 
